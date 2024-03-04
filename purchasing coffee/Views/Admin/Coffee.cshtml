@@ -1,0 +1,70 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@model List<Coffee>
+@{
+
+}
+<main class="content px-3 py-2">
+    <div class="container-fluid">
+        <div class="mb-3">
+            <h4>Services</h4>
+        </div>
+        <div class="container text-center mt-4">
+            <a asp-action="AddCoffee"><button class="m-3">add service</button></a>
+            @if(Model.Count() > 0)
+            {
+                
+            
+                <!-- Table Element -->
+                <table class="table bg-white">
+                    <thead>
+                        <tr>
+                            <th>Name</th>
+                            <th>Quantity</th>
+                            <th>Price</th>
+                            <th>Image</th> <!-- New column for Image -->
+                            <th>Actions</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var coffee in Model)
+                        {
+                            <tr>
+                                <td>@coffee.Name</td>
+                                <td>@coffee.Quantity</td>
+                                <td>@coffee.price</td>
+                                <td>
+                                    @if (!string.IsNullOrEmpty(coffee.ImageUrl))
+                                    {
+                                        <img src="~/image/@coffee.ImageUrl" class="img-fluid" width="70px" alt="Coffee Image" />
+                                    }
+                                    else
+                                    {
+                                        <span>No Image</span>
+                                    }
+                                </td>
+                                <td>
+                                    <a asp-action="Edit" asp-route-id="@coffee.CoffeeId">
+                                        <button class="btn btn-primary btn-sm mx-auto w-20">Edit</button>
+                                    </a>
+                                    |
+                                    <a asp-action="Delete" asp-route-id="@coffee.CoffeeId">
+                                        <button class="btn btn-danger btn-sm mx-auto w-40 text-center"
+                                                onclick="return confirm('Are you sure you want to delete this service with Id : @coffee.CoffeeId and name @coffee.Name ?');">
+                                            Delete
+                                        </button>
+                                    </a>
+                                </td>
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+            }
+            else{
+                <h3>You Don't have Coffee yet</h3>
+            }
+        </div>
+    </div>
+</main>
+

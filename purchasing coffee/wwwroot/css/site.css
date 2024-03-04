@@ -1,0 +1,38 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+}
+
+
+
+.coffee_c5 {
+    background-color: #EFC3A4 !important;
+}
+.coffee_c4 {
+    background-color: #4B1F0E !important;
+}
+
+.coffee_c3 {
+    background-color: #BE7656 !important;
+}
+
+.coffee_c2 {
+    background-color: #794028 !important;
+}
+.coffee_c1{
+    background-color:#0E0504 !important;
+}

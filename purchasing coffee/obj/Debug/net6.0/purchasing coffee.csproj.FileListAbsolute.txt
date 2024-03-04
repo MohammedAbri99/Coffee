@@ -1,0 +1,68 @@
+D:\Documents\Float Oman assgments\purchasing coffee\purchasing coffee\bin\Debug\net6.0\appsettings.Development.json
+D:\Documents\Float Oman assgments\purchasing coffee\purchasing coffee\bin\Debug\net6.0\appsettings.json
+D:\Documents\Float Oman assgments\purchasing coffee\purchasing coffee\bin\Debug\net6.0\purchasing coffee.staticwebassets.runtime.json
+D:\Documents\Float Oman assgments\purchasing coffee\purchasing coffee\bin\Debug\net6.0\purchasing coffee.exe
+D:\Documents\Float Oman assgments\purchasing coffee\purchasing coffee\bin\Debug\net6.0\purchasing coffee.deps.json
+D:\Documents\Float Oman assgments\purchasing coffee\purchasing coffee\bin\Debug\net6.0\purchasing coffee.runtimeconfig.json
+D:\Documents\Float Oman assgments\purchasing coffee\purchasing coffee\bin\Debug\net6.0\purchasing coffee.dll
+D:\Documents\Float Oman assgments\purchasing coffee\purchasing coffee\bin\Debug\net6.0\purchasing coffee.pdb
+D:\Documents\Float Oman assgments\purchasing coffee\purchasing coffee\bin\Debug\net6.0\Humanizer.dll
+D:\Documents\Float Oman assgments\purchasing coffee\purchasing coffee\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Documents\Float Oman assgments\purchasing coffee\purchasing coffee\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Documents\Float Oman assgments\purchasing coffee\purchasing coffee\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Documents\Float Oman assgments\purchasing coffee\purchasing coffee\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Documents\Float Oman assgments\purchasing coffee\purchasing coffee\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Documents\Float Oman assgments\purchasing coffee\purchasing coffee\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Documents\Float Oman assgments\purchasing coffee\purchasing coffee\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Documents\Float Oman assgments\purchasing coffee\purchasing coffee\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Documents\Float Oman assgments\purchasing coffee\purchasing coffee\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Documents\Float Oman assgments\purchasing coffee\purchasing coffee\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Documents\Float Oman assgments\purchasing coffee\purchasing coffee\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Documents\Float Oman assgments\purchasing coffee\purchasing coffee\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Documents\Float Oman assgments\purchasing coffee\purchasing coffee\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Documents\Float Oman assgments\purchasing coffee\purchasing coffee\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Documents\Float Oman assgments\purchasing coffee\purchasing coffee\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Documents\Float Oman assgments\purchasing coffee\purchasing coffee\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Documents\Float Oman assgments\purchasing coffee\purchasing coffee\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\Documents\Float Oman assgments\purchasing coffee\purchasing coffee\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Documents\Float Oman assgments\purchasing coffee\purchasing coffee\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Documents\Float Oman assgments\purchasing coffee\purchasing coffee\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Documents\Float Oman assgments\purchasing coffee\purchasing coffee\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Documents\Float Oman assgments\purchasing coffee\purchasing coffee\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Documents\Float Oman assgments\purchasing coffee\purchasing coffee\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Documents\Float Oman assgments\purchasing coffee\purchasing coffee\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Documents\Float Oman assgments\purchasing coffee\purchasing coffee\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Documents\Float Oman assgments\purchasing coffee\purchasing coffee\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Documents\Float Oman assgments\purchasing coffee\purchasing coffee\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Documents\Float Oman assgments\purchasing coffee\purchasing coffee\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Documents\Float Oman assgments\purchasing coffee\purchasing coffee\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Documents\Float Oman assgments\purchasing coffee\purchasing coffee\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Documents\Float Oman assgments\purchasing coffee\purchasing coffee\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Documents\Float Oman assgments\purchasing coffee\purchasing coffee\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Documents\Float Oman assgments\purchasing coffee\purchasing coffee\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Documents\Float Oman assgments\purchasing coffee\purchasing coffee\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Documents\Float Oman assgments\purchasing coffee\purchasing coffee\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Documents\Float Oman assgments\purchasing coffee\purchasing coffee\obj\Debug\net6.0\purchasing coffee.csproj.AssemblyReference.cache
+D:\Documents\Float Oman assgments\purchasing coffee\purchasing coffee\obj\Debug\net6.0\purchasing coffee.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\Float Oman assgments\purchasing coffee\purchasing coffee\obj\Debug\net6.0\purchasing coffee.AssemblyInfoInputs.cache
+D:\Documents\Float Oman assgments\purchasing coffee\purchasing coffee\obj\Debug\net6.0\purchasing coffee.AssemblyInfo.cs
+D:\Documents\Float Oman assgments\purchasing coffee\purchasing coffee\obj\Debug\net6.0\purchasing coffee.csproj.CoreCompileInputs.cache
+D:\Documents\Float Oman assgments\purchasing coffee\purchasing coffee\obj\Debug\net6.0\purchasing coffee.MvcApplicationPartsAssemblyInfo.cache
+D:\Documents\Float Oman assgments\purchasing coffee\purchasing coffee\obj\Debug\net6.0\purchasing coffee.RazorAssemblyInfo.cache
+D:\Documents\Float Oman assgments\purchasing coffee\purchasing coffee\obj\Debug\net6.0\purchasing coffee.RazorAssemblyInfo.cs
+D:\Documents\Float Oman assgments\purchasing coffee\purchasing coffee\obj\Debug\net6.0\staticwebassets.build.json
+D:\Documents\Float Oman assgments\purchasing coffee\purchasing coffee\obj\Debug\net6.0\staticwebassets.development.json
+D:\Documents\Float Oman assgments\purchasing coffee\purchasing coffee\obj\Debug\net6.0\staticwebassets\msbuild.purchasing coffee.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Documents\Float Oman assgments\purchasing coffee\purchasing coffee\obj\Debug\net6.0\staticwebassets\msbuild.build.purchasing coffee.props
+D:\Documents\Float Oman assgments\purchasing coffee\purchasing coffee\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.purchasing coffee.props
+D:\Documents\Float Oman assgments\purchasing coffee\purchasing coffee\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.purchasing coffee.props
+D:\Documents\Float Oman assgments\purchasing coffee\purchasing coffee\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Documents\Float Oman assgments\purchasing coffee\purchasing coffee\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Documents\Float Oman assgments\purchasing coffee\purchasing coffee\obj\Debug\net6.0\scopedcss\bundle\purchasing coffee.styles.css
+D:\Documents\Float Oman assgments\purchasing coffee\purchasing coffee\obj\Debug\net6.0\scopedcss\projectbundle\purchasing coffee.bundle.scp.css
+D:\Documents\Float Oman assgments\purchasing coffee\purchasing coffee\obj\Debug\net6.0\purchasi.BCDEE0F3.Up2Date
+D:\Documents\Float Oman assgments\purchasing coffee\purchasing coffee\obj\Debug\net6.0\purchasing coffee.dll
+D:\Documents\Float Oman assgments\purchasing coffee\purchasing coffee\obj\Debug\net6.0\refint\purchasing coffee.dll
+D:\Documents\Float Oman assgments\purchasing coffee\purchasing coffee\obj\Debug\net6.0\purchasing coffee.pdb
+D:\Documents\Float Oman assgments\purchasing coffee\purchasing coffee\obj\Debug\net6.0\purchasing coffee.genruntimeconfig.cache
+D:\Documents\Float Oman assgments\purchasing coffee\purchasing coffee\obj\Debug\net6.0\ref\purchasing coffee.dll

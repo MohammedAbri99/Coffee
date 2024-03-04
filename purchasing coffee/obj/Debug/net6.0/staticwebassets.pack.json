@@ -1,0 +1,333 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Documents\\Float Oman assgments\\purchasing coffee\\purchasing coffee\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\purchasing coffee.bundle.scp.css",
+      "PackagePath": "staticwebassets\\purchasing coffee.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\Documents\\Float Oman assgments\\purchasing coffee\\purchasing coffee\\wwwroot\\Files\\iamge\\06f2ff87-0db8-47be-bda1-97d14397e6d7.png",
+      "PackagePath": "staticwebassets\\Files\\iamge\\06f2ff87-0db8-47be-bda1-97d14397e6d7.png"
+    },
+    {
+      "Id": "D:\\Documents\\Float Oman assgments\\purchasing coffee\\purchasing coffee\\wwwroot\\Files\\iamge\\13d1cce1-f59b-4797-8efd-5faff22bbf7c.jpg",
+      "PackagePath": "staticwebassets\\Files\\iamge\\13d1cce1-f59b-4797-8efd-5faff22bbf7c.jpg"
+    },
+    {
+      "Id": "D:\\Documents\\Float Oman assgments\\purchasing coffee\\purchasing coffee\\wwwroot\\Files\\iamge\\99e896df-71a3-4fb2-8a8d-cd89595e7809.jpg",
+      "PackagePath": "staticwebassets\\Files\\iamge\\99e896df-71a3-4fb2-8a8d-cd89595e7809.jpg"
+    },
+    {
+      "Id": "D:\\Documents\\Float Oman assgments\\purchasing coffee\\purchasing coffee\\wwwroot\\Files\\iamge\\e71c4d2d-c3e9-4df5-9119-5f38cd776ede.jpg",
+      "PackagePath": "staticwebassets\\Files\\iamge\\e71c4d2d-c3e9-4df5-9119-5f38cd776ede.jpg"
+    },
+    {
+      "Id": "D:\\Documents\\Float Oman assgments\\purchasing coffee\\purchasing coffee\\wwwroot\\Files\\image\\c408b101-4e12-4b5d-a190-46802869efa4.png",
+      "PackagePath": "staticwebassets\\Files\\image\\c408b101-4e12-4b5d-a190-46802869efa4.png"
+    },
+    {
+      "Id": "D:\\Documents\\Float Oman assgments\\purchasing coffee\\purchasing coffee\\wwwroot\\Files\\image\\f27ce4a4-df6a-4b5f-8345-a81d16ff4364.jpeg",
+      "PackagePath": "staticwebassets\\Files\\image\\f27ce4a4-df6a-4b5f-8345-a81d16ff4364.jpeg"
+    },
+    {
+      "Id": "D:\\Documents\\Float Oman assgments\\purchasing coffee\\purchasing coffee\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\Documents\\Float Oman assgments\\purchasing coffee\\purchasing coffee\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\Documents\\Float Oman assgments\\purchasing coffee\\purchasing coffee\\wwwroot\\image\\27153a3a-9598-49fa-a25c-14b1dc3692cc.jpeg",
+      "PackagePath": "staticwebassets\\image\\27153a3a-9598-49fa-a25c-14b1dc3692cc.jpeg"
+    },
+    {
+      "Id": "D:\\Documents\\Float Oman assgments\\purchasing coffee\\purchasing coffee\\wwwroot\\image\\785dba8e-0a2f-4739-a565-b605fa2b866d.png",
+      "PackagePath": "staticwebassets\\image\\785dba8e-0a2f-4739-a565-b605fa2b866d.png"
+    },
+    {
+      "Id": "D:\\Documents\\Float Oman assgments\\purchasing coffee\\purchasing coffee\\wwwroot\\image\\9b521559-431b-45ae-84e5-bdbad185e6ff.jpeg",
+      "PackagePath": "staticwebassets\\image\\9b521559-431b-45ae-84e5-bdbad185e6ff.jpeg"
+    },
+    {
+      "Id": "D:\\Documents\\Float Oman assgments\\purchasing coffee\\purchasing coffee\\wwwroot\\image\\9cbdca19-096e-41ba-8c67-7567abcb41d4.png",
+      "PackagePath": "staticwebassets\\image\\9cbdca19-096e-41ba-8c67-7567abcb41d4.png"
+    },
+    {
+      "Id": "D:\\Documents\\Float Oman assgments\\purchasing coffee\\purchasing coffee\\wwwroot\\image\\c2ddb7f6-8cca-4d99-bfa9-cfc744263c5c.png",
+      "PackagePath": "staticwebassets\\image\\c2ddb7f6-8cca-4d99-bfa9-cfc744263c5c.png"
+    },
+    {
+      "Id": "D:\\Documents\\Float Oman assgments\\purchasing coffee\\purchasing coffee\\wwwroot\\image\\cf27c487-7fcd-41f7-9c64-fc02e71be257.png",
+      "PackagePath": "staticwebassets\\image\\cf27c487-7fcd-41f7-9c64-fc02e71be257.png"
+    },
+    {
+      "Id": "D:\\Documents\\Float Oman assgments\\purchasing coffee\\purchasing coffee\\wwwroot\\image\\coffee_1.jpg",
+      "PackagePath": "staticwebassets\\image\\coffee_1.jpg"
+    },
+    {
+      "Id": "D:\\Documents\\Float Oman assgments\\purchasing coffee\\purchasing coffee\\wwwroot\\image\\coffee_2.jpg",
+      "PackagePath": "staticwebassets\\image\\coffee_2.jpg"
+    },
+    {
+      "Id": "D:\\Documents\\Float Oman assgments\\purchasing coffee\\purchasing coffee\\wwwroot\\image\\de8fa4cc-f852-4ac4-b452-a573851d3f7e.jpeg",
+      "PackagePath": "staticwebassets\\image\\de8fa4cc-f852-4ac4-b452-a573851d3f7e.jpeg"
+    },
+    {
+      "Id": "D:\\Documents\\Float Oman assgments\\purchasing coffee\\purchasing coffee\\wwwroot\\image\\e59cf811-4b7c-42cc-850b-7c534e16270e.jpeg",
+      "PackagePath": "staticwebassets\\image\\e59cf811-4b7c-42cc-850b-7c534e16270e.jpeg"
+    },
+    {
+      "Id": "D:\\Documents\\Float Oman assgments\\purchasing coffee\\purchasing coffee\\wwwroot\\image\\fbdd1aa7-c3ff-4c9a-bf34-1ca02a70a534.png",
+      "PackagePath": "staticwebassets\\image\\fbdd1aa7-c3ff-4c9a-bf34-1ca02a70a534.png"
+    },
+    {
+      "Id": "D:\\Documents\\Float Oman assgments\\purchasing coffee\\purchasing coffee\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\Documents\\Float Oman assgments\\purchasing coffee\\purchasing coffee\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\Documents\\Float Oman assgments\\purchasing coffee\\purchasing coffee\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\Documents\\Float Oman assgments\\purchasing coffee\\purchasing coffee\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\Documents\\Float Oman assgments\\purchasing coffee\\purchasing coffee\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\Documents\\Float Oman assgments\\purchasing coffee\\purchasing coffee\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\Documents\\Float Oman assgments\\purchasing coffee\\purchasing coffee\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\Documents\\Float Oman assgments\\purchasing coffee\\purchasing coffee\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Documents\\Float Oman assgments\\purchasing coffee\\purchasing coffee\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Documents\\Float Oman assgments\\purchasing coffee\\purchasing coffee\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Documents\\Float Oman assgments\\purchasing coffee\\purchasing coffee\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\Documents\\Float Oman assgments\\purchasing coffee\\purchasing coffee\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\Documents\\Float Oman assgments\\purchasing coffee\\purchasing coffee\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\Documents\\Float Oman assgments\\purchasing coffee\\purchasing coffee\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\Documents\\Float Oman assgments\\purchasing coffee\\purchasing coffee\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\Documents\\Float Oman assgments\\purchasing coffee\\purchasing coffee\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Documents\\Float Oman assgments\\purchasing coffee\\purchasing coffee\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Documents\\Float Oman assgments\\purchasing coffee\\purchasing coffee\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Documents\\Float Oman assgments\\purchasing coffee\\purchasing coffee\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\Documents\\Float Oman assgments\\purchasing coffee\\purchasing coffee\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\Documents\\Float Oman assgments\\purchasing coffee\\purchasing coffee\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\Documents\\Float Oman assgments\\purchasing coffee\\purchasing coffee\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\Documents\\Float Oman assgments\\purchasing coffee\\purchasing coffee\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\Documents\\Float Oman assgments\\purchasing coffee\\purchasing coffee\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Documents\\Float Oman assgments\\purchasing coffee\\purchasing coffee\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Documents\\Float Oman assgments\\purchasing coffee\\purchasing coffee\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Documents\\Float Oman assgments\\purchasing coffee\\purchasing coffee\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\Documents\\Float Oman assgments\\purchasing coffee\\purchasing coffee\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\Documents\\Float Oman assgments\\purchasing coffee\\purchasing coffee\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Documents\\Float Oman assgments\\purchasing coffee\\purchasing coffee\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\Documents\\Float Oman assgments\\purchasing coffee\\purchasing coffee\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\Documents\\Float Oman assgments\\purchasing coffee\\purchasing coffee\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Documents\\Float Oman assgments\\purchasing coffee\\purchasing coffee\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Documents\\Float Oman assgments\\purchasing coffee\\purchasing coffee\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Documents\\Float Oman assgments\\purchasing coffee\\purchasing coffee\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\Documents\\Float Oman assgments\\purchasing coffee\\purchasing coffee\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\Documents\\Float Oman assgments\\purchasing coffee\\purchasing coffee\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\Documents\\Float Oman assgments\\purchasing coffee\\purchasing coffee\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\Documents\\Float Oman assgments\\purchasing coffee\\purchasing coffee\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\Documents\\Float Oman assgments\\purchasing coffee\\purchasing coffee\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\Documents\\Float Oman assgments\\purchasing coffee\\purchasing coffee\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\Documents\\Float Oman assgments\\purchasing coffee\\purchasing coffee\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\Documents\\Float Oman assgments\\purchasing coffee\\purchasing coffee\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\Documents\\Float Oman assgments\\purchasing coffee\\purchasing coffee\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\Documents\\Float Oman assgments\\purchasing coffee\\purchasing coffee\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\Documents\\Float Oman assgments\\purchasing coffee\\purchasing coffee\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\Documents\\Float Oman assgments\\purchasing coffee\\purchasing coffee\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Documents\\Float Oman assgments\\purchasing coffee\\purchasing coffee\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\Documents\\Float Oman assgments\\purchasing coffee\\purchasing coffee\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\Documents\\Float Oman assgments\\purchasing coffee\\purchasing coffee\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\Documents\\Float Oman assgments\\purchasing coffee\\purchasing coffee\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\Documents\\Float Oman assgments\\purchasing coffee\\purchasing coffee\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\Documents\\Float Oman assgments\\purchasing coffee\\purchasing coffee\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\Documents\\Float Oman assgments\\purchasing coffee\\purchasing coffee\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\Documents\\Float Oman assgments\\purchasing coffee\\purchasing coffee\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Documents\\Float Oman assgments\\purchasing coffee\\purchasing coffee\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\Documents\\Float Oman assgments\\purchasing coffee\\purchasing coffee\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\Documents\\Float Oman assgments\\purchasing coffee\\purchasing coffee\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.purchasing coffee.props",
+      "PackagePath": "build\\purchasing coffee.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.purchasing coffee.props",
+      "PackagePath": "buildMultiTargeting\\purchasing coffee.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.purchasing coffee.props",
+      "PackagePath": "buildTransitive\\purchasing coffee.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.purchasing coffee.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

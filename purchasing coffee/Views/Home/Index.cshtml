@@ -1,0 +1,24 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+@model List<Coffee>;
+
+@if(Model.Count() > 0)
+{
+    <div class="row">
+        @foreach (var coffee in Model)
+        {
+            <div class="col-md-3 mb-4">
+                <div class="card">
+                    <img src="~/image/@coffee.ImageUrl" class="card-img-top" alt="Coffee image">
+                    <div class="card-body coffee_c3">
+                        <h5 class="card-title">Name :@coffee.Name</h5>
+                        <p class="card-text">Price: $@coffee.price</p>
+                        <a asp-controller="Ordr" asp-action="OrderCoffee" class="btn btn-primary" asp-route-id="@coffee.CoffeeId">Order Now</a>
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+}

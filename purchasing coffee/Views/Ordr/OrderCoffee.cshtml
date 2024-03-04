@@ -1,0 +1,77 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+
+}
+@model Order;
+<div class="container">
+    <div class="row justify-content-center align-content-center">
+        <div class="col-md-6">
+            <!-- Center the column -->
+            <div class="card">
+                <img src="~/image/@ViewBag.coffeeImg" class="" alt="Coffee image">
+                <div class="card-body coffee_c3">
+                    <form asp-action="OrderCoffee" method="Post"  class="form">
+                        <input asp-for="coffeeId" type="hidden" value="@ViewBag.coffeeId" />
+
+                        <div class="form-group">
+                            <label class="form-label">Coffee Name :</label>
+                            <input value="@ViewBag.coffeeName" class="form-control" type="text" disabled="disabled" id="serviceName">
+                        </div>
+
+                        <!-- coffee Price -->
+                        <div class="form-group">
+                            <label class="form-label">Price :</label>
+                            <input value="@ViewBag.coffeePrice" class="form-control" disabled="disabled" inputmode="decimal" id="price">
+                        </div>
+
+                        <!-- coffee quntity -->
+                        <div class="form-group">
+                            <label asp-for="quantity" class="form-label">Quantity :</label>
+                            <input asp-for="quantity" class="form-control" type="number" min="0" max="@ViewBag.coffeeQuant" id="quantityInput">
+                            <span asp-validation-for="quantity" class="text-danger"></span>
+                        </div>
+
+                        
+                        <!-- Total Price -->
+                        <div class="form-group">
+                            <label asp-for="total_price" class="form-label">Total Price :</label>
+                            <input asp-for="total_price" class="form-control" disabled="disabled" inputmode="decimal" id="totalPriceInput">
+                            <span asp-validation-for="total_price" class="text-danger"></span>
+                        </div>
+
+
+                        <!-- submit button -->
+                        <div class="text-center mt-3">
+                            <button class="mx-5 w-25 mt-3 rounded-2">Order</button>
+                        </div>
+                    </form>
+                    
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script>
+    
+    function updateTotalPrice() {
+        var quantity = parseInt(document.getElementById('quantityInput').value);
+        var price = parseFloat('@ViewBag.coffeePrice');
+        var totalPrice = quantity * price;
+        if(totalPrice >= 0){
+            document.getElementById('totalPriceInput').value = totalPrice.toFixed(2);
+            
+        }else{
+            document.getElementById('totalPriceInput').value = 0; 
+            
+        }
+    }
+
+    
+    document.getElementById('quantityInput').addEventListener('input', updateTotalPrice);
+
+    
+    updateTotalPrice();
+</script>
